@@ -35,7 +35,7 @@ git clone https://github.com/YourUsername/MyCV.git
 The website is structured to be simple and easy to navigate. The homepage includes links to different sections like bio, education, and projects. For ongoing updates, simply modify the respective sections in the HTML code.
 
  ## Screenshots
-
+https://github.com/Manani10/Sinethemba-CV/blob/main/Screenshot%202024-09-24%20112914.png
 
  
 ## Skills
