@@ -29,7 +29,7 @@ I am a software developer with expertise in backend development, focusing on Pyt
 
 ## Installation
 To run the CV website locally:
-git clone https://github.com/YourUsername/MyCV.git
+git clone https://github.com/Manani10/Sinethemba-CV/blob/main/CV/index.html
 
 ## Usage
 The website is structured to be simple and easy to navigate. The homepage includes links to different sections like bio, education, and projects. For ongoing updates, simply modify the respective sections in the HTML code.
